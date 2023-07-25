@@ -1,0 +1,48 @@
+body {
+    background-color:   #ffffff;
+}
+
+
+img {
+    width: 50%;
+}
+
+
+main {
+    width: 75%;
+    margin: 50px 5px 20px 10px;
+    color: #831010;
+}
+.brown-grey {
+    background-color: #831010;
+    color: #ffffff;
+}
+
+
+footer {
+    text-align: center;
+    margin: 50px auto;
+    padding: 100% auto;
+}
+
+
+.display-inline {
+    display: inline-block;
+}
+
+
+#our-list {
+    padding: 1px;
+    text-align: left;
+    margin: 50x center;
+}
+
+
+h2 {
+    color:black
+}
+
+
+JACOBY {
+    color: #f99d31;
+}
